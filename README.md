@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ankit+Das!+%F0%9F%8C%B8;Welcome+to+my+little+corner+of+GitHub+%E2%9C%A8;Let's+build+something+cute+%26+cool+%F0%9F%92%BB" alt="Typing SVG" />
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ankitdas37&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20Anime%20Nerd%20%7C%20Code%20Wizard&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ankit Das&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%7C%20Anime%20Nerd%20%7C%20Code%20Wizard&descAlignY=55&descSize=18)
 
 </div>
 
